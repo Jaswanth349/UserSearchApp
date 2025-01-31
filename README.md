@@ -14,6 +14,14 @@ Database: H2 (in-memory)
 Container Orchestration: Docker
 
 ----------------------
+Checkout the UserSearchApp_Demo_Video:
+----------
+
+
+https://github.com/user-attachments/assets/0ffcebbd-de81-40bc-9730-e0fb7e56fc1e
+
+
+----------------------
 How to Run:
 ----------
 1. Download the project zip file.
