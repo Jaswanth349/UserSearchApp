@@ -17,8 +17,8 @@ Container Orchestration: Docker
 How to Run:
 ----------
 1. Download the project zip file.
-2. Backend: Place it at C:\PROJECT\BACKEND\user-search-api
-3. Frontend: Place it at C:\PROJECT\FRONTEND\ANGULAR\user-search-app
+2. Backend(Spring Boot Branch : BACKEND): Place it at C:\PROJECT\BACKEND\user-search-api
+3. Frontend(Angular Branch FRONTEND): Place it at C:\PROJECT\FRONTEND\ANGULAR\user-search-app
 4. Docker Compose file: Place it at C:\PROJECT
 5. Go to the directory where you saved the docker-compose.yml file.
 6. Run the command: docker-compose up --build. This will build the Docker images.
