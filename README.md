@@ -12,6 +12,7 @@ Searching: Hibernate Search
 Database: H2 (in-memory)
 
 Container Orchestration: Docker
+
 ----------------------
 How to Run:
 ----------
